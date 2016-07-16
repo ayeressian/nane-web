@@ -1,0 +1,68 @@
+{
+    "scrollConfig": {
+        "rightToLeft": [
+            {
+                "top": 5,
+                "width": 500,
+                "height": 40,
+                "images": [
+                    {
+                        "name": "1.jpg",
+                        "left": 15
+                    },
+                    {
+                        "name": "2.jpg",
+                        "left": 50
+                    }
+                ]
+            },
+            {
+                "top": 55,
+                "width": 500,
+                "height": 40,
+                "images": [
+                    {
+                        "name": "3.jpg",
+                        "left": 15
+                    },
+                    {
+                        "name": "4.jpg",
+                        "left": 50
+                    }
+                ]
+            }
+        ],
+        "leftToRight": [
+            {
+                "top": 5,
+                "width": 500,
+                "height": 40,
+                "images": [
+                    {
+                        "name": "5.jpg",
+                        "right": 15
+                    },
+                    {
+                        "name": "6.jpg",
+                        "right": 50
+                    }
+                ]
+            },
+            {
+                "top": 55,
+                "width": 500,
+                "height": 40,
+                "images": [
+                    {
+                        "name": "7.jpg",
+                        "right": 15
+                    },
+                    {
+                        "name": "8.jpg",
+                        "right": 50
+                    }
+                ]
+            }
+        ]
+    }
+}
